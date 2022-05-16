@@ -1,0 +1,22 @@
+[
+    {
+        "name": "TCC",
+        "id": 0,
+        "ver": "0.9.27",
+        "open": 1,
+        "type": 1,
+        "source": "https://download.savannah.gnu.org/releases/tinycc/tcc-0.9.27.tar.bz2",
+        "site": "https://bellard.org/tcc/",
+        "desc": "Компилятор C для платформы x86. Работает в ОС Linux, KolibriOS, Microsoft Windows. Существуют также версии для ARM, TMS320C67xx. Распространяется по лицензии GNU LGPL.",
+        "thum": "",
+        "download": {
+            "win32": "https://download.savannah.gnu.org/releases/tinycc/tcc-0.9.27-win32-bin.zip",
+            "win64": "https://download.savannah.gnu.org/releases/tinycc/tcc-0.9.27-win64-bin.zip",
+            "lin32": "",
+            "lin64": "",
+            "kos": "",
+            "Syn": ""
+        },
+        "screenshots": ["", "", ""]
+    }
+]
